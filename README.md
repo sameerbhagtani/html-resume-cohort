@@ -19,7 +19,6 @@ git clone https://github.com/sameerbhagtani/html-resume-cohort
 - **Semantic Architecture:** Strategic implementation of `<header>`, `<main>`, `<section>`, `<article>`, and `<footer>` to define a clear document content model.
 - **Accessible Tabular Data:** Implementation of the `scope` attribute within table headers for screen-reader compatibility and the `<time>` element for machine-readable dates.
 - **Metadata Optimization:** Inclusion of a descriptive meta tag for SEO and a favicon link for browser-level recognition.
-
 - **Structural Hierarchy:** Precise management of heading levels (`h1` through `h3`) and horizontal rules (`hr`) to ensure logical content flow and visual clarity.
 
 ## Screenshots
