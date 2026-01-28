@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a strictly semantic HTML5 resume. It was developed as a peer assignment for the ChaiCode Web Development Cohort 2026.
+This repository contains a strictly semantic HTML5 resume. It was developed as an assignment for the ChaiCode Web Development Cohort 2026.
 
 ## Accessing the Project
 
