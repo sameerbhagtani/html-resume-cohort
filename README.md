@@ -4,6 +4,8 @@
 
 This repository contains a strictly semantic HTML5 resume. It was developed as an assignment for the ChaiCode Web Development Cohort 2026.
 
+This project is part of my [ChaiCode Web Dev Cohort 2026 Archive](https://github.com/sameerbhagtani/web-dev-cohort-26). Checkout my entire journey there!
+
 ## Accessing the Project
 
 Check out the live version of this website at: https://sameerbhagtani.github.io/html-resume-cohort/
