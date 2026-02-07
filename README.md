@@ -23,10 +23,7 @@ git clone https://github.com/sameerbhagtani/html-resume-cohort
 - **Metadata Optimization:** Inclusion of a descriptive meta tag for SEO and a favicon link for browser-level recognition.
 - **Structural Hierarchy:** Precise management of heading levels (`h1` through `h3`) and horizontal rules (`hr`) to ensure logical content flow and visual clarity.
 
-## Screenshots
+## Live Demo
 
-![Screenshot 1](./screenshots/1.png)
-
-![Screenshot 2](./screenshots/2.png)
-
-![Screenshot 3](./screenshots/3.png)
+<video src="https://github.com/user-attachments/assets/fa1c1795-daff-48cc-9e7c-e242d5250751" controls="controls" muted="muted" style="max-width: 100%; height: auto;">
+</video>
