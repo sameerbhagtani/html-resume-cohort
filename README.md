@@ -25,6 +25,4 @@ git clone https://github.com/sameerbhagtani/html-resume-cohort
 
 ## Live Demo
 
-<video src="https://github.com/user-attachments/assets/fa1c1795-daff-48cc-9e7c-e242d5250751" autoplay loop muted playsinline style="max-width: 100%; height: auto; border-radius: 10px;">
-Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/fa1c1795-daff-48cc-9e7c-e242d5250751
